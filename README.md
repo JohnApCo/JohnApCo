@@ -48,7 +48,7 @@ Desde entonces me he dedicado a especializarme en el desarrollo web y el uso de 
 
 [![Github](https://img.shields.io/badge/Github-JohnApCo-181717?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/JohnApCo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JohnApCo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/johnapco/)</br>
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
+[![Discord](https://img.shields.io/badge/Discord-johnapco-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 [![CodeSandBox](https://img.shields.io/badge/Codesandbox-JohnApCo-151515?style=for-the-badge&logo=Codesandbox&logoColor=white&labelColor=101010)](https://codesandbox.io/u/JohnApCo)
 [![CodePen](https://img.shields.io/badge/Codepen-@johnapco-000000?style=for-the-badge&logo=Codepen&logoColor=white&labelColor=101010)](https://codepen.io/JohnApCo)
 [![Dev](https://img.shields.io/badge/Dev-JohnApCo-0A0A0A?style=for-the-badge&logo=DevDotTo&logoColor=white&labelColor=101010)](https://dev.to/johnapco)
