@@ -25,6 +25,8 @@ Desde entonces me he dedicado a especializarme en el desarrollo web y el uso de 
 [![HTML5](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white&labelColor=101010)]()
 [![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white&labelColor=101010)]()
+[![Tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
+[![NextJs](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()
 
 ### Mobile App Development
 
