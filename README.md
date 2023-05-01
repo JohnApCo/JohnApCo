@@ -16,6 +16,7 @@ Desde entonces me he dedicado a especializarme en el desarrollo web y el uso de 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 ### Frontend Development
 
@@ -26,7 +27,13 @@ Desde entonces me he dedicado a especializarme en el desarrollo web y el uso de 
 [![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white&labelColor=101010)]()
 [![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white&labelColor=101010)]()
 [![Tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
-[![NextJs](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()
+[![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()
+
+### Frontend Development
+
+[![NodeJs](https://img.shields.io/badge/Node.Js-339933?style=for-the-badge&logo=NodedotJs&logoColor=white&labelColor=101010)]()
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
+[![MondoDb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 
 ### Mobile App Development
 
