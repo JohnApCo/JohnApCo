@@ -2,7 +2,7 @@
 
 ### Fullstack Developer ( MERN / Python )
 
-![https://github.com/JohnApCo](https://raw.githubusercontent.com/JohnApCo/JohnApCo/main/Portada%20Perfil%20de%20Linkedin%20Profesional%20Moderno%20Oscuro.png)
+![https://github.com/JohnApCo](https://raw.githubusercontent.com/JohnApCo/JohnApCo/main/Portada%20Perfil%20de%20Linkedin%20Profesional%20Moderno%20Oscuro%20(1).png)
 
 Soy ingeniero electrónico profesional con gran pasión por la programación desde 2019.
 
